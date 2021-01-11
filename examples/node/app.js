@@ -1,4 +1,4 @@
-var myUserId = "@example:localhost";
+var myUserId = "@waldy713:localhost";
 var myAccessToken = "QGV4YW1wbGU6bG9jYWxob3N0.qPEvLuYfNBjxikiCjP";
 var sdk = require("matrix-js-sdk");
 var clc = require("cli-color");
